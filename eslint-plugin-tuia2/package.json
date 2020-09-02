@@ -1,0 +1,6 @@
+{
+  "name": "eslint-plugin-tuia2",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+var a = 'tuia'
+
+console.log(a)
